@@ -1,0 +1,1 @@
+Kural: "Her zaman Next.js App Router kullan. API çağrıları için Fetch kullan. Supabase işlemleri için @supabase/supabase-js kütüphanesini kullan."
